@@ -1,6 +1,6 @@
 # Hybrid Smart Energy Control and Redistribution System
 
-This project aims to develop a **cost-effective energy management solution** that optimizes the distribution of energy from multiple sources (solar panels, grid power, and battery storage) while ensuring efficient load management and sustainability. The system is enhanced with **AI-driven capabilities** to prioritize energy usage, reduce costs, and minimize carbon emissions, making it ideal for urban households and small businesses in outage-prone regions like Bangladesh.
+This project aims to develop a **cost-effective energy management solution** that optimizes the distribution of energy from multiple sources (solar panels, grid power, and battery storage) while ensuring efficient load management and sustainability. <!-- The system is enhanced with **AI-driven capabilities** to prioritize energy usage, reduce costs, and minimize carbon emissions, making it ideal for urban households and small businesses in outage-prone regions like Bangladesh. -->
 
 ---
 
